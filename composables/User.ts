@@ -7,7 +7,7 @@
         return{
         logged_user:"",
         acsess_token:null,
-        base_url:useRuntimeConfig().public.base_url
+        base_url:"UriBracha.pythonanywhere.com"
 
         }
     },

@@ -41,10 +41,9 @@
 
 const username = ref("")
 const password = ref("")
-const env = useRuntimeConfig()
 const status=ref("")
 
-const base_url=env.public.base_url
+const base_url="UriBracha.pythonanywhere.com"
 async function Register(e)
 
 {
