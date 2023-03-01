@@ -7,7 +7,7 @@
         return{
         logged_user:"",
         acsess_token:null,
-        base_url:"UriBracha.pythonanywhere.com"
+        base_url:"http://UriBracha.pythonanywhere.com"
 
         }
     },
