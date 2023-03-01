@@ -7,7 +7,7 @@ export const reminderStore=definePiniaStore("Reminders",{
 
             cases:Array<CasesInter>(),
             current_reminders:Array<RemindersInter>(),
-            base_url:"UriBracha.pythonanywhere.com"
+            base_url:"http://UriBracha.pythonanywhere.com"
 
         
     }),
