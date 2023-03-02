@@ -43,7 +43,7 @@ const username = ref("")
 const password = ref("")
 const status=ref("")
 
-const base_url="http://UriBracha.pythonanywhere.com"
+const base_url="https://UriBracha.pythonanywhere.com"
 async function Register(e)
 
 {
